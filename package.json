@@ -1,0 +1,19 @@
+{
+  "name": "guia_hoteles",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto de node.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeffrey2391/guia_hoteles.git"
+  },
+  "author": "Jeffrey Aguila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeffrey2391/guia_hoteles/issues"
+  },
+  "homepage": "https://github.com/Jeffrey2391/guia_hoteles#readme"
+}
